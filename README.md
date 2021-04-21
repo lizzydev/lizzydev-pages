@@ -1,2 +1,4 @@
 # play-github
-Messing around with github and everything you can do with repositories.
+“All that is gold does not glitter,
+Not all those who wander are lost.”
+― J.R.R. Tolkien
