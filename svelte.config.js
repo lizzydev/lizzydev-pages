@@ -12,7 +12,10 @@ const config = {
         paths: {
             // change below to your repo name
             base: dev ? '' : '/lizzydev-pages',
-        }
+        },
+		prerender: {
+			default: true
+		}
 	}
 };
 
