@@ -1,5 +1,8 @@
-<body>
-    <h1>Hi! I'm Lizzy!</h1>
+<body class="p-10">
+    <h1 class="text-3xl">
+        Hi! I'm Lizzy!
+    </h1>
+    <br>
     <p>I created this site for fun and to figure out how to use custom domains, set up https, etc.</p>
     <p>So there's not much here!</p>
     <p>Visit <a href="https://github.com/lizzydev/lizzydev-pages">the repo</a> for this site.</p>
