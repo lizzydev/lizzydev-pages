@@ -9,7 +9,7 @@
     <p>Visit <a href="https://github.com/lizzydev/book-notes">book-notes</a> for books I've read and my notes from them!</p>
 </body>
 
-<style>
+<!-- <style>
     body {
         background-color: rgba(247, 173, 62, 0.322);
     }
@@ -17,4 +17,4 @@
     p {
         font-family: fantasy;
     }
-</style>
+</style> -->
